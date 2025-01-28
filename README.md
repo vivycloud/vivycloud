@@ -1,4 +1,4 @@
-Hi, I'm Kosisochukwu
+#   Hi, I'm Kosisochukwu
 
 🌱 With growing expertise in cloud computing, automation, and infrastructure management.
 
@@ -10,4 +10,4 @@ Hi, I'm Kosisochukwu
 
 📝 How to reach me: kosisochukwur3@gmail.com
 
-⚡ Fun fact: I enjoy playing games, reading, and exploring new technologies in my free time.
+# ⚡ Fun fact: I enjoy playing games, reading, and exploring new technologies in my free time.
