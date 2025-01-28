@@ -14,5 +14,6 @@ Hi, I'm Kosisochukwu
 
 # ⚡ Fun fact: I enjoy playing games, reading, and exploring new technologies in my free time.
 
-# Tech stack
+# 💻 Tech Stack
+
 
