@@ -16,7 +16,31 @@ Hi, I'm Kosisochukwu
 
 # 💻 Tech Stack
 [Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
-https://camo.githubusercontent.com/9ff694a6846373e469e9fb1ccfe727205c8502185e4ea9e9b107ee5d0aef2427/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f676f6f676c65636c6f75642f676f6f676c65636c6f75642d6f726967696e616c2e737667
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)
+https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker
+https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
