@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Kosisochukwu
 
-<!--
-**vivycloud/vivycloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 With growing expertise in cloud computing, automation, and infrastructure management.
 
-Here are some ideas to get you started:
+🛠️ With proficiency in Azure, Google Cloud Platform (GCP), and AWS, I specialize in designing and implementing secure cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏫ I'm currently learning Cloud Security, Kubernetes, and Terraform.
+
+🪔 I'm looking to collaborate on open-source projects, hackathons, and innovative ideas.
+
+📝 How to reach me: kosisochukwur3@gmail.com
+
+⚡ Fun fact: I enjoy playing games, reading, and exploring new technologies in my free time.
