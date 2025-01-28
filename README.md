@@ -15,6 +15,8 @@ Hi, I'm Kosisochukwu
 # ⚡ Fun fact: I enjoy playing games, reading, and exploring new technologies in my free time.
 
 # 💻 Tech Stack
+[Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
+
 
 
 
